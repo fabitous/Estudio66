@@ -1,0 +1,13 @@
+Intruções para a configuração do banco do dado 
+
+O projeto é da IDE NetBeans
+O arquivo jandex esta na pasta raiz
+Sera utilizado na aplicacao o JavaDB e o Glassfish
+
+Configuracao do banco:
+nome do banco: db66
+user: adm
+senha: six
+
+Para acessar a area de adm deve-se fazer um update no level de um usuario para "adm".
+
